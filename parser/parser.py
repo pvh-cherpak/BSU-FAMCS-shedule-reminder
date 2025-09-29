@@ -111,12 +111,12 @@ def check_group_pos(table):
 
 # %%
 class DayOfWeek(enum.Enum):
-    monday = (15, 6)
-    tuesday = (40, 5)
-    wednesday = (61, 6)
-    thursday = (86, 6)
-    friday = (111, 5)
-    saturday = (132, 4)
+    monday = (19, 6)
+    tuesday = (44, 5)
+    wednesday = (65, 6)
+    thursday = (90, 6)
+    friday = (115, 6)
+    saturday = (140, 4)
 
 class Group(enum.Enum):
     group_1 = 2
